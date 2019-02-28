@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# OneSITU wiki
 
 
 <!--
@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](united)
 
 
 <!--
@@ -21,6 +21,9 @@
 
 [About](pages/about.md)
 [Download](pages/download.md)
+[Solutions](pages/solution.md)
+[Our web site](https://www.onesitu.com/)
+[Our location](pages/location.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
@@ -40,7 +43,7 @@
 
 [Menu Item 3](pages/item3.md)
 
----------------------------------------------------------------------------- -->
+------------------------------------------------------------------------------>
 
 <!--
   -- Change the Language
@@ -55,11 +58,10 @@
   * [Italian](/it/)
 -->
 
-<!--
-  -- Let the user choose a theme
-  -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
-  -->
+<!--Let the user choose a theme
+(Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)-->
 
-<!--
-[gimmick:themechooser](Choose theme)
--->
+
+
+<!--[gimmick:themechooser](Choose readable)-->
+

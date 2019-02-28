@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+#OS wiki
 
 
 <!--
@@ -21,6 +21,7 @@
 
 [About](pages/about.md)
 [Download](pages/download.md)
+[Solution](pages/solution.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
@@ -55,10 +56,10 @@
   * [Italian](/it/)
 -->
 
-<!--
-  -- Let the user choose a theme
-  -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
-  -->
+
+Let the user choose a theme
+(Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
+
 
 <!--
 [gimmick:themechooser](Choose theme)
