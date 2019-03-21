@@ -18,33 +18,24 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
+[<i class="fas fa-home"></i>  Home ](index.md)
+[<i class="fas fa-info-circle"></i> A propos de oneSITU](https://www.onesitu.com/)
+[<i class="fas fa-cogs"></i> Rubrique technique ](pages/technique/rubrique_technique.md)
+[<i class="fas fa-medkit"></i> Kit pour débutant ](pages/technic.md)
+[<i class="fas fa-question"></i> Trucs & Astuces ](pages/technic.md)
+[<i class="fas fa-project-diagram"></i> Les projets](pages/technic.md)
+[<i class="fas fa-briefcase"></i> Aspect Commercial ](pages/technic.md)
+[<i class="fas fa-exclamation-circle"></i> T.B.D](pages/technic.md)
 
-[About](pages/about.md)
-[Download](pages/download.md)
-[Solutions](pages/solution.md)
-[Our web site](https://www.onesitu.com/)
-[Our location](pages/location.md)
+[Change the Language]()
 
-<!-- A more complex navigation example: ----------------------------------------
-
-[Menu Item 1]()
-
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
-  - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](pages/subitem3.md)
-  - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
-
-[Menu Item 2](pages/item2.md)
-
-[Menu Item 3](pages/item3.md)
-
------------------------------------------------------------------------------->
-
+  * [Change the Language]()
+  * [English (United States)](/en_US/)
+  * [English (United Kingdom)](/en_GB/)
+  
+  * [Change the Language]()
+  * [English (United Kingdom)](/en_GB/)
+  * [Italian](/it/)
 <!--
   -- Change the Language
   -- Could be useful when there's more than one language wiki.
