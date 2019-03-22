@@ -1,0 +1,18 @@
+<Files rubrique_technique.md> 
+
+AuthUserFile "C:\wamp\www\fr-FR\pages\.htpasswd"
+AuthName "Veuiller vous identifier"
+AuthType Basic
+
+require user admin
+
+</Files> 
+<Files rubrique_technique.md> 
+
+AuthUserFile "C:\wamp\www\fr-FR\pages.htpasswd"
+AuthName "Veuiller vous identifier"
+AuthType Basic
+
+require user oneSITU
+
+</Files> 

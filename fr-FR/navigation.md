@@ -27,15 +27,7 @@
 [<i class="fas fa-briefcase"></i> Aspect Commercial ](pages/technic.md)
 [<i class="fas fa-exclamation-circle"></i> T.B.D](pages/technic.md)
 
-[Change the Language]()
 
-  * [Change the Language]()
-  * [English (United States)](/en_US/)
-  * [English (United Kingdom)](/en_GB/)
-  
-  * [Change the Language]()
-  * [English (United Kingdom)](/en_GB/)
-  * [Italian](/it/)
 <!--
   -- Change the Language
   -- Could be useful when there's more than one language wiki.
