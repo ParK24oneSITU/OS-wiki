@@ -1,34 +1,50 @@
-<h1 style="text-align: center;">La documentation technique des produits oneSITU</h1>
+<h1 style="text-align: center;">Les divers procédures de préparation, d'installation ou de maintenance pour solutions oneSITU</h1>
 
 
 <br>
 
-#### Vous retrouverez dans cette rubrique l'ensemble des fiches techniques des produits oneSITU et les alogrithmes implémentés pour les solutions oneSITU.
+#### Vous retrouverez dans cette rubrique les descriptions des processus de préparation, de mise en place et de maintenance des produits oneSITU.
 
 <br>
 
-## <i class="fas fa-arrow-alt-circle-right" style = "color : #bc3d11;"></i> Sur Les capteurs
+## <i class="fas fa-arrow-alt-circle-right" style = "color : #bc3d11;"></i> Processus de préparation
 
 <br>
 
-#### Dans cette partie, sont présentés les capteurs principaux commercialisés par oneSITU.
+#### Les divers procédures pour préparer certaines solutions oneSITU.
 
 <br>
 
-##### La gamme oS100 :
+##### pour la création de parking :
 
-###### [<i class="fas fa-caret-right"></i>  Les capteurs OCM. ](https://drive.google.com/drive/u/1/folders/17VSg7k9fmNGhRaoinuom3M8sgNkrbBxG)
-###### [<i class="fas fa-caret-right"></i>  Les capteurs OEM. ](https://drive.google.com/drive/u/1/folders/1voacpMlSJxjfaS3PWgfvXWIgSsZiJloE)
+###### [<i class="fas fa-caret-right"></i>  Procéssus d'un fichier SVGZ pour l'application ParK24. ](https://drive.google.com/drive/folders/1tzuQS-HlYpEEgr2_bbPdfHebN9WXN9Y1)
 
-<br>
-
-##### La gamme oS200 :
-
-###### [<i class="fas fa-caret-right"></i>  Les capteurs ICR/ICI. ](https://drive.google.com/drive/u/1/folders/1E1nA5KRMiYm4tWsbIlHx1YU9H_T__iBX)
 
 <br>
 
-##### La gamme oS300 :
+##### pour les capteurs :
+
+###### [<i class="fas fa-caret-right"></i>  Assemblage des capteurs RFB. ](https://drive.google.com/drive/folders/1UW5696qybikzLFRB6g7_CmWF8cx5xZWo)
+
+###### [<i class="fas fa-caret-right"></i>  Assignement des capteurs. ](https://drive.google.com/drive/folders/1UW5696qybikzLFRB6g7_CmWF8cx5xZWo)
+
+###### [<i class="fas fa-caret-right"></i>  Programmation du Bluetooth pour les oS300. ](https://drive.google.com/drive/folders/1UW5696qybikzLFRB6g7_CmWF8cx5xZWo)
+
+###### [<i class="fas fa-caret-right"></i>  Programmation des nouveaux capteurs oS300. ](https://drive.google.com/drive/folders/1UW5696qybikzLFRB6g7_CmWF8cx5xZWo)
+
+###### [<i class="fas fa-caret-right"></i>  Soudure de le carte Bluetooth pour les oS300. ](https://drive.google.com/drive/folders/1UW5696qybikzLFRB6g7_CmWF8cx5xZWo)
+
+###### [<i class="fas fa-caret-right"></i>  Les tests de validité. ](https://drive.google.com/drive/folders/1UW5696qybikzLFRB6g7_CmWF8cx5xZWo)
+
+<br>
+
+##### pour les gateways :
+
+###### [<i class="fas fa-caret-right"></i>  Les capteurs OER/OEI. ](https://drive.google.com/drive/u/1/folders/14aPWA6yHnNjoXCoPwtIm1gLJC_tef64b)
+
+<br>
+
+##### pour les afficheurs :
 
 ###### [<i class="fas fa-caret-right"></i>  Les capteurs OER/OEI. ](https://drive.google.com/drive/u/1/folders/14aPWA6yHnNjoXCoPwtIm1gLJC_tef64b)
 

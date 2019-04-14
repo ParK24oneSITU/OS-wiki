@@ -22,7 +22,7 @@ Cette partie regroupe les fiches produits de oneSITU (comme les gateways, les ca
 
 Cette partie regroupe l'ensemble des procédures concernant les différents processus de préparation, d'installation et de la maintenance des solutions de oneSITU.
 
-[<i class="fas fa-arrow-right"></i>  Vous trouverez l'ensemble des processus métiers, ici. ](index.md)
+[<i class="fas fa-arrow-right"></i>  Vous trouverez l'ensemble des processus métiers, ici. ](processus.md)
 
 <br>
 
