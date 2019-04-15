@@ -32,4 +32,4 @@ Cette partie regroupe l'ensemble des procédures concernant les différents proc
 
 Cette partie regroupe les différentes documentations concernant la documention sur la prise en main des logiciels ou des outils utilisés par oneSITU.
 
-[<i class="fas fa-arrow-right"></i>  Vous trouverez l'ensemble de la documentation pour les utilisateurs, ici. ](index.md)
+[<i class="fas fa-arrow-right"></i>  Vous trouverez l'ensemble de la documentation pour les utilisateurs, ici. ](user_guide.md)

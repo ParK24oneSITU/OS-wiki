@@ -21,11 +21,11 @@
 [<i class="fas fa-home"></i>  Home ](index.md)
 [<i class="fas fa-info-circle"></i> A propos de oneSITU](https://www.onesitu.com/)
 [<i class="fas fa-cogs"></i> Rubrique technique ](pages/technique/rubrique_technique.md)
-[<i class="fas fa-medkit"></i> Kit pour débutant ](pages/technic.md)
-[<i class="fas fa-question"></i> Trucs & Astuces ](pages/technic.md)
-[<i class="fas fa-project-diagram"></i> Les projets](pages/technic.md)
+[<i class="fas fa-medkit"></i> Kit pour débutant ](pages/kit/new_member_kit.md)
+[<i class="fas fa-question"></i> Trucs & Astuces ](pages/astuces/rubrique_astuces.md)
+[<i class="fas fa-project-diagram"></i> Les projets](pages/projet/rubrique_projet.md)
 [<i class="fas fa-briefcase"></i> Aspect Commercial ](pages/technic.md)
-[<i class="fas fa-exclamation-circle"></i> T.B.D](pages/technic.md)
+[<i class="fas fa-exclamation-circle"></i> T.B.D](pages/tbd.md)
 
 
 <!--

@@ -11,7 +11,7 @@
 
 <br>
 
-#### Les divers procédures pour préparer certaines solutions oneSITU.
+#### Les divers procédures pour préparer les solutions oneSITU.
 
 <br>
 
@@ -40,13 +40,25 @@
 
 ##### pour les gateways :
 
-###### [<i class="fas fa-caret-right"></i>  Les capteurs OER/OEI. ](https://drive.google.com/drive/u/1/folders/14aPWA6yHnNjoXCoPwtIm1gLJC_tef64b)
+###### [<i class="fas fa-caret-right"></i>  Vérification de crédit pour les gateways 3G. ](https://drive.google.com/drive/folders/1I-YjtJtdlT106U5ANxPgwZaV9ihRu5cn)
+
+###### [<i class="fas fa-caret-right"></i>  Mise à jour des gateways. ](https://drive.google.com/drive/folders/1I-YjtJtdlT106U5ANxPgwZaV9ihRu5cn)
+
+###### [<i class="fas fa-caret-right"></i>  Installation d'une clé SSH pour l'accès des gateways. ](https://drive.google.com/drive/folders/1I-YjtJtdlT106U5ANxPgwZaV9ihRu5cn)
+
+###### [<i class="fas fa-caret-right"></i>  Configuration initiale pour une gateway. ](https://drive.google.com/drive/folders/1I-YjtJtdlT106U5ANxPgwZaV9ihRu5cn)
+
+###### [<i class="fas fa-caret-right"></i>  Changement adresse IP de gateway. ](https://drive.google.com/drive/folders/1I-YjtJtdlT106U5ANxPgwZaV9ihRu5cn)
+
+###### [<i class="fas fa-caret-right"></i>  Assemblage d'une gateway. ](https://drive.google.com/drive/folders/1I-YjtJtdlT106U5ANxPgwZaV9ihRu5cn)
+
+###### [<i class="fas fa-caret-right"></i>  Activation des cartes SIM Orange M2M. ](https://drive.google.com/drive/folders/1I-YjtJtdlT106U5ANxPgwZaV9ihRu5cn)
 
 <br>
 
 ##### pour les afficheurs :
 
-###### [<i class="fas fa-caret-right"></i>  Les capteurs OER/OEI. ](https://drive.google.com/drive/u/1/folders/14aPWA6yHnNjoXCoPwtIm1gLJC_tef64b)
+###### [<i class="fas fa-caret-right"></i>  Assignation d'un afficheur. ](https://drive.google.com/drive/folders/1qoe7_9OSs7TvWDcgc1ZGLKMkpS1DcYOr)
 
 <br>
 
@@ -54,75 +66,34 @@
 
 
 
-## <i class="fas fa-arrow-alt-circle-right" style = "color : #bc3d11;"></i>  Sur les afficheurs
+## <i class="fas fa-arrow-alt-circle-right" style = "color : #bc3d11;"></i> Processus d'installation
 
 <br>
 
-#### Dans cette partie, sont présentés les capteurs principaux commercialisés par oneSITU.
+#### Les divers procédures pour installer les solutions oneSITU.
 
 <br>
 
-##### La gamme Indoor :
-
-###### [<i class="fas fa-caret-right"></i>  Les afficheurs LED. ](https://drive.google.com/drive/u/1/folders/14aPWA6yHnNjoXCoPwtIm1gLJC_tef64b)
+##### pour les capteurs :
 
 <br>
 
-##### La gamme Outdoor :
+##### pour les oS100 :
 
-###### [<i class="fas fa-caret-right"></i>  Les afficheurs LCD ](https://drive.google.com/drive/u/1/folders/1E1nA5KRMiYm4tWsbIlHx1YU9H_T__iBX)
+###### [<i class="fas fa-caret-right"></i>  Echange de capteurs](https://drive.google.com/drive/folders/12iHV6YBt4FH6808izyM7o7JJPPvIR5Fk)
 
-###### [<i class="fas fa-caret-right"></i>  Les afficheurs pour drive ](https://drive.google.com/drive/u/1/folders/1E1nA5KRMiYm4tWsbIlHx1YU9H_T__iBX)
+###### [<i class="fas fa-caret-right"></i>  Pose de capteurs](https://drive.google.com/drive/folders/12iHV6YBt4FH6808izyM7o7JJPPvIR5Fk)
 
-<br>
-
-##### La produits à intégrer :
-
-###### [<i class="fas fa-caret-right"></i>  Les afficheurs LED PLUTON. ](https://drive.google.com/drive/u/1/folders/14aPWA6yHnNjoXCoPwtIm1gLJC_tef64b)
-
-###### [<i class="fas fa-caret-right"></i>  Les afficheurs LED JUPITER. ](https://drive.google.com/drive/u/1/folders/14aPWA6yHnNjoXCoPwtIm1gLJC_tef64b)
+###### [<i class="fas fa-caret-right"></i>  Valeurs de calibration](https://drive.google.com/drive/folders/12iHV6YBt4FH6808izyM7o7JJPPvIR5Fk)
 
 <br>
 
+##### pour les oS300 :
 
+###### [<i class="fas fa-caret-right"></i>  Installation de capteurs](https://drive.google.com/drive/folders/1iXWB2VI3rlB9nQ8GRpMQ7X7apxrl_jba)
 
+###### [<i class="fas fa-caret-right"></i>  Pose de capteurs](https://drive.google.com/drive/folders/1iXWB2VI3rlB9nQ8GRpMQ7X7apxrl_jba)
 
-
-
-## <i class="fas fa-arrow-alt-circle-right" style = "color : #bc3d11;"></i>  Sur les gateways
-
-<br>
-
-#### Dans cette partie, sont présentés les détails techniques des gateways commercialisés par oneSITU.
-
-<br>
-
-##### La gamme oSConnect :
-
-###### [<i class="fas fa-caret-right"></i>  Les concentrateurs radio oSConnect. ](https://drive.google.com/drive/u/1/folders/1VHhFmbvhJVzbYTgR4HW9YOzuM0w9Ddth)
-
-<br>
-
-
-
-
-
-## <i class="fas fa-arrow-alt-circle-right" style = "color : #bc3d11;"></i>  Sur les algorithmes
-
-<br>
-
-#### Dans cette partie, sont présentés les détails sur les algorithmes des modules radars magnétiques des solutions de capteurs commercialisés par oneSITU.
-
-<br>
-
-##### les rapports sur les divers radars magnétiques :
-
-###### [<i class="fas fa-caret-right"></i>  Le rapport "Enhancement of the Magnetic Car Sensor Performance". ](https://drive.google.com/drive/folders/15u193CQWvuIWRpcrK4yQ429seWXJBDwC0)
-
-###### [<i class="fas fa-caret-right"></i>  Le rapport "Enhancement of the Magnetic and Nano-Radar Car Sensor Performance". ](https://drive.google.com/drive/folders/15u193CQWvuIWRpcrK4yQ429seWXJBDwC0)
-
-###### [<i class="fas fa-caret-right"></i>  Le rapport "CSMR Radar Performance Report". ](https://drive.google.com/drive/folders/15u193CQWvuIWRpcrK4yQ429seWXJBDwC0)
-
-###### [<i class="fas fa-caret-right"></i>  Le rapport "Car Sensor Nano-Radar Differential Detection Algorithm". ](https://drive.google.com/drive/folders/15u193CQWvuIWRpcrK4yQ429seWXJBDwC0)
+###### [<i class="fas fa-caret-right"></i>  Valeurs de calibration](https://drive.google.com/drive/folders/1iXWB2VI3rlB9nQ8GRpMQ7X7apxrl_jba)
 
 <br>
